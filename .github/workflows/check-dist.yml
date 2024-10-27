@@ -14,8 +14,7 @@ permissions:
 jobs:
   check-dist:
     name: Check dist/
-    runs-on:
-      group: sml
+    runs-on: oci-cli-runner
 
     steps:
       - name: Checkout

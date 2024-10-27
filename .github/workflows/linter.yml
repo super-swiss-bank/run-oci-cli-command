@@ -16,8 +16,7 @@ permissions:
 jobs:
   lint:
     name: Lint Codebase
-    runs-on:
-      group: sml
+    runs-on: oci-cli-runner
 
     steps:
       - name: Checkout
