@@ -19,7 +19,7 @@ inputs:
       (Default: true) If set to 'False', will stream the output of the command directly to the log. This may leak
       confidential information. We recomment keep this as false except for debugging purposes.
     required: false
-    default: 'True'
+    default: 'False'
 outputs:
   output:
     description: Response output in JSON format

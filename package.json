@@ -1,24 +1,24 @@
 {
-  "name": "@oracle-actions/run-oci-cli-command",
+  "name": "@super-swiss-bank/run-oci-cli-command",
   "description": "Run an Oracle Cloud Infrastructure (OCI) CLI command",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "author": {
-    "name": "Oracle Cloud Infrastructure",
-    "email": "oci-dax-tools_ww@oracle.com"
+    "name": "super-swiss-bank"
   },
   "private": true,
-  "homepage": "https://github.com/oracle-actions/run-oci-cli-command#readme",
+  "homepage": "https://github.com/super-swiss-bank/run-oci-cli-command#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oracle-actions/run-oci-cli-command.git"
+    "url": "git+https://github.com/super-swiss-bank/run-oci-cli-command.git"
   },
   "bugs": {
-    "url": "https://github.com/oracle-actions/run-oci-cli-command/issues"
+    "url": "https://github.com/super-swiss-bank/run-oci-cli-command/issues"
   },
   "keywords": [
     "github",
     "actions",
     "oracle-cloud",
+    "super-swiss-bank",
     "oracle-cloud-infrastructure"
   ],
   "exports": {
