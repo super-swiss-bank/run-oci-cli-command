@@ -14,7 +14,8 @@ permissions:
 jobs:
   check-dist:
     name: Check dist/
-    runs-on: self-hosted-ubuntu
+    runs-on:
+      group: sml
 
     steps:
       - name: Checkout

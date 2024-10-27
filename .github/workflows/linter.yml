@@ -16,7 +16,8 @@ permissions:
 jobs:
   lint:
     name: Lint Codebase
-    runs-on: self-hosted-ubuntu
+    runs-on:
+      group: sml
 
     steps:
       - name: Checkout
